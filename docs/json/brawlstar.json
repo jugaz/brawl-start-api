@@ -1,0 +1,334 @@
+{
+    "items": [
+        {
+            "id":"1",
+            "name": "SHELLY",
+            "url":"https://jugaz.github.io/brawl-start-game/images/1.png"
+        },
+
+        {
+            "id":"2",
+            "name": "COLT",
+            "url":"https://jugaz.github.io/brawl-start-game/images/2.png"
+        },
+
+        {
+            "id":"3",
+            "name": "BULL",
+            "url":"https://jugaz.github.io/brawl-start-game/images/3.png"
+        },
+
+        {
+            "id":"4",
+            "name": "BROCK",
+            "url":"https://jugaz.github.io/brawl-start-game/images/4.png"
+        },
+
+        {
+            "id":"5",
+            "name": "RICO",
+            "url":"https://jugaz.github.io/brawl-start-game/images/5.png"
+        },
+
+        {
+            "id":"6",
+            "name": "SPIKE",
+            "url":"https://jugaz.github.io/brawl-start-game/images/6.png"
+        },
+
+        {
+            "id":"7",
+            "name": "BARLEY",
+            "url":"https://jugaz.github.io/brawl-start-game/images/7.png"
+        },
+
+        {
+            "id":"8",
+            "name": "JESSIE",
+            "url":"https://jugaz.github.io/brawl-start-game/images/8.png"
+        },
+
+        {
+            "id":"9",
+            "name": "NITA",
+            "url":"https://jugaz.github.io/brawl-start-game/images/9.png"
+        },
+
+        {
+            "id":"10",
+            "name": "DYNAMIKE",
+            "url":"https://jugaz.github.io/brawl-start-game/images/10.png"
+        },
+
+        {
+            "id":"11",
+            "name": "EL PRIMO",
+            "url":"https://jugaz.github.io/brawl-start-game/images/11.png"
+        },
+
+        {
+            "id":"12",
+            "name": "MORTIS",
+            "url":"https://jugaz.github.io/brawl-start-game/images/12.png"
+        },
+
+        {
+            "id":"13",
+            "name": "CROW",
+            "url":"https://jugaz.github.io/brawl-start-game/images/13.png"
+        },
+
+        {
+            "id":"14",
+            "name": "POCO",
+            "url":"https://jugaz.github.io/brawl-start-game/images/14.png"
+        },
+
+        {
+            "id":"15",
+            "name": "BO",
+            "url":"https://jugaz.github.io/brawl-start-game/images/15.png"
+        },
+
+        {
+            "id":"16",
+            "name": "PIPER",
+            "url":"https://jugaz.github.io/brawl-start-game/images/16.png"
+        },
+
+        {
+            "id":"17",
+            "name": "PAM",
+            "url":"https://jugaz.github.io/brawl-start-game/images/17.png"
+        },
+
+        {
+            "id":"18",
+            "name": "TARA",
+            "url":"https://jugaz.github.io/brawl-start-game/images/18.png"
+        },
+
+        {
+            "id":"19",
+            "name": "DARRYL",
+            "url":"https://jugaz.github.io/brawl-start-game/images/19.png"
+        },
+
+        {
+            "id":"20",
+            "name": "PENNY",
+            "url":"https://jugaz.github.io/brawl-start-game/images/20.png"
+        },
+
+        {
+            "id":"21",
+            "name": "FRANK",
+            "url":"https://jugaz.github.io/brawl-start-game/images/21.png"
+        },
+
+        {
+            "id":"22",
+            "name": "GENE",
+            "url":"https://jugaz.github.io/brawl-start-game/images/22.png"
+        },
+
+        {
+            "id":"23",
+            "name": "TICK",
+            "url":"https://jugaz.github.io/brawl-start-game/images/23.png"
+        },
+
+        {
+            "id":"24",
+            "name": "LEON",
+            "url":"https://jugaz.github.io/brawl-start-game/images/24.png"
+        },
+
+        {
+            "id":"25",
+            "name": "ROSA",
+            "url":"https://jugaz.github.io/brawl-start-game/images/25.png"
+        },
+
+        {
+            "id":"26",
+            "name": "CARL",
+            "url":"https://jugaz.github.io/brawl-start-game/images/26.png"
+        },
+
+        {
+            "id":"27",
+            "name": "BIBI",
+            "url":"https://jugaz.github.io/brawl-start-game/images/27.png"
+        },
+
+        {
+            "id":"28",
+            "name": "8-BIT",
+            "url":"https://jugaz.github.io/brawl-start-game/images/28.png"
+        },
+
+        {
+            "id":"29",
+            "name": "SANDY",
+            "url":"https://jugaz.github.io/brawl-start-game/images/29.png"
+        },
+
+        {
+            "id":"30",
+            "name": "BEA",
+            "url":"https://jugaz.github.io/brawl-start-game/images/30.png"
+        },
+
+        {
+            "id":"31",
+            "name": "EMZ",
+            "url":"https://jugaz.github.io/brawl-start-game/images/31.png"
+        },
+
+        {
+            "id":"32",
+            "name": "MR. P",
+            "url":"https://jugaz.github.io/brawl-start-game/images/32.png"
+        },
+
+        {
+            "id":"33",
+            "name": "MAX",
+            "url":"https://jugaz.github.io/brawl-start-game/images/33.png"
+        },
+
+        {
+            "id":"34",
+            "name": "JACKY",
+            "url":"https://jugaz.github.io/brawl-start-game/images/34.png"
+        },
+
+        {
+            "id":"35",
+            "name": "GALE",
+            "url":"https://jugaz.github.io/brawl-start-game/images/35.png"
+        },
+
+        {
+            "id":"36",
+            "name": "NANI",
+            "url":"https://jugaz.github.io/brawl-start-game/images/36.png"
+        },
+
+        {
+            "id":"37",
+            "name": "SPROUT",
+            "url":"https://jugaz.github.io/brawl-start-game/images/37.png"
+        },
+
+        {
+            "id":"38",
+            "name": "SURGE",
+            "url":"https://jugaz.github.io/brawl-start-game/images/38.png"
+        },
+
+        {
+            "id":"39",
+            "name": "COLETTE",
+            "url":"https://jugaz.github.io/brawl-start-game/images/39.png"
+        },
+
+        {
+            "id":"40",
+            "name": "AMBER",
+            "url":"https://jugaz.github.io/brawl-start-game/images/40.png"
+        },
+
+        {
+            "id":"41",
+            "name": "LOU",
+            "url":"https://jugaz.github.io/brawl-start-game/images/41.png"
+        },
+
+        {
+            "id":"42",
+            "name": "BYRON",
+            "url":"https://jugaz.github.io/brawl-start-game/images/42.png"
+        },
+
+        {
+            "id":"43",
+            "name": "EDGAR",
+            "url":"https://jugaz.github.io/brawl-start-game/images/43.png"
+        },
+
+        {
+            "id":"44",
+            "name": "CORONEL RUFFS",
+            "url":"https://jugaz.github.io/brawl-start-game/images/44.png"
+        },
+
+        {
+            "id":"45",
+            "name": "STU",
+            "url":"https://jugaz.github.io/brawl-start-game/images/45.png"
+        },
+
+        {
+            "id":"46",
+            "name": "BELLE",
+            "url":"https://jugaz.github.io/brawl-start-game/images/46.png"
+        },
+
+        {
+            "id":"47",
+            "name": "SQUEAK",
+            "url":"https://jugaz.github.io/brawl-start-game/images/47.png"
+        },
+        
+        {
+            "id":"48",
+            "name": "GROM",
+            "url":"https://jugaz.github.io/brawl-start-game/images/48.png"
+        },
+
+        {
+            "id":"49",
+            "name": "BUZZ",
+            "url":"https://jugaz.github.io/brawl-start-game/images/49.png"
+        },
+
+        {
+            "id":"50",
+            "name": "GRIFF",
+            "url":"https://jugaz.github.io/brawl-start-game/images/50.png"
+        },
+
+        {
+            "id":"51",
+            "name": "ASH",
+            "url":"https://jugaz.github.io/brawl-start-game/images/51.png"
+        },
+
+        {
+            "id":"52",
+            "name": "MEG",
+            "url":"https://jugaz.github.io/brawl-start-game/images/52.png"
+        },
+
+        {
+            "id":"53",
+            "name": "LOLA",
+            "url":"https://jugaz.github.io/brawl-start-game/images/53.png"
+        },
+
+        {
+            "id":"54",
+            "name": "FANG",
+            "url":"https://jugaz.github.io/brawl-start-game/images/54.png"
+        },
+
+        {
+            "id":"55",
+            "name": "EVE",
+            "url":"https://jugaz.github.io/brawl-start-game/images/55.png"
+        }
+    ]
+    
+}
