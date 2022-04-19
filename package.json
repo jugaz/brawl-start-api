@@ -1,0 +1,22 @@
+{
+  "name": "brawl-start-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jugaz/brawl-star-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jugaz/brawl-star-api/issues"
+  },
+  "homepage": "https://github.com/jugaz/brawl-star-api#readme"
+}
